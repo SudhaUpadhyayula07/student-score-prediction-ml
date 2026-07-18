@@ -1,0 +1,1 @@
+print("Day 1: Environment ready for Student Score Prediction project")
